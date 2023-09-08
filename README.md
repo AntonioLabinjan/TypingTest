@@ -44,7 +44,6 @@ Copy code
 
 A simple Python typing test program that allows users to practice their typing skills by typing a given text and measuring their typing speed and accuracy.
 
-![Screenshot](screenshot.png)
 
 ## Table of Contents
 
